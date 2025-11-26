@@ -23,10 +23,10 @@ Testimonials App is a modern and interactive web application built with React th
 Follow these steps to run the project on your local machine:
 
 1. Clone the repository  
-   `git clone https://github.com/AlexandroCamacho1000/Testimonial_app.git`
+   `git clone https://github.com/AlexandroCamacho1000/TestimonialAppByAle.git`
 
 2. Navigate to the project folder  
-   `cd Testimonial_app`
+   `cd TestimonialAppByAle`
 
 3. Install dependencies  
    `npm install`
@@ -71,10 +71,10 @@ Testimonials App es una aplicación web moderna e interactiva desarrollada con R
 Sigue estos pasos para ejecutar el proyecto:
 
 1. Clona el repositorio  
-   `git clone https://github.com/AlexandroCamacho1000/Testimonial_app.git`
+   `git clone https://github.com/AlexandroCamacho1000/TestimonialAppByAle.git`
 
 2. Entra a la carpeta del proyecto  
-   `cd Testimonial_app`
+    `cd TestimonialAppByAle`
 
 3. Instala las dependencias  
    `npm install`
