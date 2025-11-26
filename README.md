@@ -1,3 +1,5 @@
+<img width="101" height="101" alt="alesoft" src="https://github.com/user-attachments/assets/d9e0bd86-9354-4b94-a44e-36db8f139311" />
+
 # 🌟 Testimonials App
 
 ## Overview
