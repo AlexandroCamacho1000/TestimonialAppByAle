@@ -1,74 +1,94 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Testimonials App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Testimonials App is a modern and interactive web application built with React that allows users to view and manage professional testimonials in a clean and visually appealing interface.
 
-In the project directory, you can run:
+## Technologies Used
 
-### `npm start`
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Tools
+- Git & GitHub
+- Visual Studio Code
+- Node.js
+- npm
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation Guide (Run Locally)
 
-### `npm test`
+Follow these steps to run the project on your local machine:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository  
+   `git clone https://github.com/AlexandroCamacho1000/Testimonial_app.git`
 
-### `npm run build`
+2. Navigate to the project folder  
+   `cd Testimonial_app`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Install dependencies  
+   `npm install`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. Start the development server  
+   `npm start`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. Open the project in your browser  
+   `http://localhost:3000`
 
-### `npm run eject`
+The app should now be running locally.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Author
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Developed by: Alejandro Camacho  
+GitHub: AlexandroCamacho1000
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Aplicación de Testimonios
 
-## Learn More
+## Descripción General
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Testimonials App es una aplicación web moderna e interactiva desarrollada con React que permite visualizar y gestionar testimonios profesionales en una interfaz limpia y atractiva.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Tecnologías Utilizadas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-### Analyzing the Bundle Size
+### Herramientas
+- Git y GitHub
+- Visual Studio Code
+- Node.js
+- npm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Guía de Instalación (Ejecutar Localmente)
 
-### Making a Progressive Web App
+Sigue estos pasos para ejecutar el proyecto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1. Clona el repositorio  
+   `git clone https://github.com/AlexandroCamacho1000/Testimonial_app.git`
 
-### Advanced Configuration
+2. Entra a la carpeta del proyecto  
+   `cd Testimonial_app`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+3. Instala las dependencias  
+   `npm install`
 
-### Deployment
+4. Inicia el servidor de desarrollo  
+   `npm start`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+5. Abre el proyecto en tu navegador  
+   `http://localhost:3000`
 
-### `npm run build` fails to minify
+La aplicación quedará ejecutándose localmente.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Testimonial_app
->>>>>>> a524d47c499539b33fe35af5796b6658472dc690
+## Autor
+
+Desarrollado por: Alejandro Camacho  
+GitHub: AlexandroCamacho1000
