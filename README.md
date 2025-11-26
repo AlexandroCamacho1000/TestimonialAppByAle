@@ -1,22 +1,22 @@
-# Testimonials App
+# 🌟 Testimonials App
 
 ## Overview
 
-Testimonials App is a modern and interactive web application built with React that allows users to view and manage professional testimonials in a clean and visually appealing interface.
+Testimonials App is a modern and interactive web application built with React that allows users to view and manage professional testimonials in a clean and visually appealing interface. 💻✨
 
 ## Technologies Used
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+- ⚛️ React.js
+- 📝 JavaScript (ES6+)
+- 🌐 HTML5
+- 🎨 CSS3
 
 ### Tools
-- Git & GitHub
-- Visual Studio Code
-- Node.js
-- npm
+- 🗂 Git & GitHub
+- 🖥 Visual Studio Code
+- 📦 Node.js
+- ⚡ npm
 
 ## Installation Guide (Run Locally)
 
@@ -37,35 +37,34 @@ Follow these steps to run the project on your local machine:
 5. Open the project in your browser  
    `http://localhost:3000`
 
-The app should now be running locally.
+The app should now be running locally. 🚀
 
 ## Author
 
 Developed by: Alejandro Camacho  
-GitHub: AlexandroCamacho1000
+GitHub: [AlexandroCamacho1000](https://github.com/AlexandroCamacho1000) 👨‍💻
 
 ---
 
-# Aplicación de Testimonios
+# 🇪🇸 Aplicación de Testimonios
 
 ## Descripción General
 
-Testimonials App es una aplicación web moderna e interactiva desarrollada con React que permite visualizar y gestionar testimonios profesionales en una interfaz limpia y atractiva.
-
+Testimonials App es una aplicación web moderna e interactiva desarrollada con React que permite visualizar y gestionar testimonios profesionales en una interfaz limpia y atractiva. 💻✨
 
 ## Tecnologías Utilizadas
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+- ⚛️ React.js
+- 📝 JavaScript (ES6+)
+- 🌐 HTML5
+- 🎨 CSS3
 
 ### Herramientas
-- Git y GitHub
-- Visual Studio Code
-- Node.js
-- npm
+- 🗂 Git y GitHub
+- 🖥 Visual Studio Code
+- 📦 Node.js
+- ⚡ npm
 
 ## Guía de Instalación (Ejecutar Localmente)
 
@@ -86,9 +85,11 @@ Sigue estos pasos para ejecutar el proyecto:
 5. Abre el proyecto en tu navegador  
    `http://localhost:3000`
 
-La aplicación quedará ejecutándose localmente.
+La aplicación quedará ejecutándose localmente. 🚀
 
 ## Autor
 
 Desarrollado por: Alejandro Camacho  
-GitHub: AlexandroCamacho1000
+GitHub: [AlexandroCamacho1000](https://github.com/AlexandroCamacho1000) 👨‍💻
+
+![alt text](image-1.png)
